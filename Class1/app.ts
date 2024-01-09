@@ -8,4 +8,4 @@ const twoPointCartesianDistance = (
 };
 
 console.log(twoPointCartesianDistance(3, 2, 9, 7));
-console.log(Math.sqrt(61));
+console.log(Math.sqrt(61)); //Correct answer
