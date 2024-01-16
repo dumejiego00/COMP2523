@@ -1,4 +1,4 @@
-// Create an interface that represents the data used in the function below it.
+e// Create an interface that represents the data used in the function below it.
 // Type the function parameter with your interface.
 
 interface Fruit {
